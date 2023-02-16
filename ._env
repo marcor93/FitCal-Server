@@ -1,5 +1,5 @@
 # update the below variables to match your projects specific info
 
-DB_LOCAL_DBNAME = test
+DB_LOCAL_DBNAME = fitcal
 DB_LOCAL_USER = root
 DB_LOCAL_PASSWORD = rootroot
